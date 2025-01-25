@@ -10,7 +10,7 @@
 		(rev "1.0")
 		(company "HAOS REDRO PN: 0000 0001")
 		(comment 1 "https://www.haosredro.com")
-		(comment 2 "Licensed under CERN OLH v.1.2 or later")
+		(comment 2 "Licensed under CERN OHL 2.0-S")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x03"
