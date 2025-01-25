@@ -1,0 +1,10 @@
+HAOS REDRO PN: 0000 0001
+========================
+
+This is a single sided PCB for battery construction. Multiple boards can be stacked using M3 threaded spacers or M3 studding and plain spacers. Each board provides additional M3 screw holes for positive and negative connections, either to cables with ring terminals or to adjacent boards via conductive spacers. A pin header is provided for cell stack monitoring and cell balancing connections. Note that this design is unsuitable for high-current applications and the maximum continuous current should be limited to 2A per cell.
+
+Cell information for a fully-populated single board:
+----------------------------------------------------
+Type:		18650
+Count:		8
+Configuration:  4P2S
