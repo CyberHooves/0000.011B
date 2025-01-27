@@ -6,11 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "Stackable holder for eight 18650 cells")
-		(date "2019-01-30")
+		(date "2025-01-26")
 		(rev "1.0")
-		(company "HAOS REDRO PN: 0000 0001")
+		(company "HAOS REDRO PN: 0000 011B")
 		(comment 1 "https://www.haosredro.com")
-		(comment 2 "Licensed under CERN OHL 2.0-S")
+		(comment 2 "HAOS REDRO PN: 0000.011B by Taiyo Rawle is marked with CC0 1.0 ")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x03"
